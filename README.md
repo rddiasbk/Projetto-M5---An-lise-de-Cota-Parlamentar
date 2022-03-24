@@ -1,12 +1,6 @@
 # Projeto-M5-Análise da Cota por Exercício da Atividade Parlamentar - CEAP.
 Esta análise faz parte do trabalho do 5° módulo de formação em Análise de Dados da Resilia Educação com base nas informações disponibilizadas pela Câmara dos Deputados.
 
-# 
-
-Esta análise faz parte do trabalho do 5° módulo de formação em Análise de Dados da Resilia Educação com base nas informações disponibilizadas pela Câmara dos Deputados.
-
-
-
 ## Autores
 - [Carla Lanzillotta](https://github.com/CarlaLanzillotta)
 - [Felipe Britto](https://github.com/XFelipeBrittoX)
